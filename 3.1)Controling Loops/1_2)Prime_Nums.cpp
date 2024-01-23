@@ -1,3 +1,9 @@
+/**
+ * This C++ program checks if a given number is prime or not.
+ * 
+ * @return The program is returning 0.
+ */
+
 #include<iostream>
 using namespace std;
 int main(){

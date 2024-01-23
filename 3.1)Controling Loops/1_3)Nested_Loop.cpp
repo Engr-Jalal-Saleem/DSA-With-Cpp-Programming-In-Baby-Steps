@@ -1,3 +1,11 @@
+/**
+ * This C++ program checks for prime numbers within a given range.
+ * 
+ * @return The program is returning 0, which indicates that the program executed successfully.
+ */
+// Telling about nested loops
+// Nested loops are loops inside loops
+
 #include<iostream>
 using namespace std;
 int main(){
